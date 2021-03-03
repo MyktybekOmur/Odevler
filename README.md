@@ -1,1 +1,1 @@
-# Odevler
+# Java code
